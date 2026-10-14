@@ -2,7 +2,7 @@
 
 ### Software Developer | Computer Engineering MSc Student | Space Technology Enthusiast 🚀
 
-I'm a Software Developer for Wedge Engineering and Master's student in Computer Systems Engineering at the University of Florence, Italy.
+I'm a Software Developer for Wedge Engineering (https://www.linkedin.com/company/wedge-engineering-srl/posts/) and Master's student in Computer Systems Engineering at the University of Florence, Italy.
 
 I enjoy combining software development with engineering, exploring how software architectures, embedded systems, and communication technologies can solve real-world challenges.
 
